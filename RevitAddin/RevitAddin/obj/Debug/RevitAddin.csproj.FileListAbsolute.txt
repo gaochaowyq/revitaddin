@@ -1,0 +1,17 @@
+D:\GitHub\revitaddin\RevitAddin\RevitAddin\obj\Debug\UI.baml
+D:\GitHub\revitaddin\RevitAddin\RevitAddin\obj\Debug\WPF\ImportRhinoFile.baml
+D:\GitHub\revitaddin\RevitAddin\RevitAddin\obj\Debug\UI.g.cs
+D:\GitHub\revitaddin\RevitAddin\RevitAddin\obj\Debug\WPF\ImportRhinoFile.g.cs
+D:\GitHub\revitaddin\RevitAddin\RevitAddin\obj\Debug\RevitAddin_MarkupCompile.cache
+D:\GitHub\revitaddin\RevitAddin\RevitAddin\obj\Debug\RevitAddin.g.resources
+D:\GitHub\revitaddin\RevitAddin\RevitAddin\obj\Debug\RevitAddin.csproj.CoreCompileInputs.cache
+D:\GitHub\revitaddin\RevitAddin\RevitAddin\bin\Debug\Win32\librhino3dmio_native.dll
+D:\GitHub\revitaddin\RevitAddin\RevitAddin\bin\Debug\Win64\librhino3dmio_native.dll
+D:\GitHub\revitaddin\RevitAddin\RevitAddin\bin\Debug\librhino3dmio_native.dylib
+D:\GitHub\revitaddin\RevitAddin\RevitAddin\bin\Debug\RevitAddin.dll
+D:\GitHub\revitaddin\RevitAddin\RevitAddin\bin\Debug\RevitAddin.pdb
+D:\GitHub\revitaddin\RevitAddin\RevitAddin\bin\Debug\Rhino3dmIO.dll
+D:\GitHub\revitaddin\RevitAddin\RevitAddin\obj\Debug\RevitAddin.csproj.CopyComplete
+D:\GitHub\revitaddin\RevitAddin\RevitAddin\obj\Debug\RevitAddin.dll
+D:\GitHub\revitaddin\RevitAddin\RevitAddin\obj\Debug\RevitAddin.pdb
+D:\GitHub\revitaddin\RevitAddin\RevitAddin\obj\Debug\RevitAddin.csprojAssemblyReference.cache
