@@ -42,6 +42,8 @@ namespace RevitAddin
         public Transform  GetRhinoElementLocation(InstanceReferenceGeometry instanceReferenceGeometry ) 
         {
             Transform transform = instanceReferenceGeometry.Xform;
+            Debug.WriteLine(transform.ToString());
+            Debug.WriteLine(transform.IsRigid(0.01));
 
             return transform;
         }
